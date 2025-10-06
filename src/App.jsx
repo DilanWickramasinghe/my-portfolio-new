@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <div className="name">
-      
+      0
     </div>
     </>
   )
